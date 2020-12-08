@@ -1,0 +1,43 @@
+/* Introdução a linguagem Dart */
+
+  void main() {
+  
+  print("ola");
+  print("Senhora fabi"); /*se usado uma letra maiuscula vai dar erro se a funcao nao for declarada em maiuscula também */
+
+
+/*Váriaveis e operações em DART*/
+
+ 
+//estou criando um produto apenas.
+
+
+  
+    String produto;
+    produto ="Arroz";
+    print(produto); 
+  
+  //quantidade de sacos de arroz.
+  
+    int quantidade = 20; 
+  
+  //preço do arroz.
+  double preco = 10.99;
+  print (quantidade);
+  print (preco);
+    
+  // bool,boleano descreva apenas o vdd e falso.
+bool entrega =true;
+  
+  print (entrega);
+
+  produto = "Arroz Branco";
+  
+  print ("O $produto está $preco");
+  
+  
+} 
+
+
+
+
